@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi, I'm Solafa 👋
 
-<!--
-**solafaissa042/solafaissa042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer passionate about building real-world full-stack web applications.
 
-Here are some ideas to get you started:
+I enjoy turning ideas into scalable and user-friendly solutions using modern technologies like React and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack
+
+- Frontend: React, Redux Toolkit, Next.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+
+📌 Featured Projects
+
+- 🔹 Company Management System (MERN Stack)
+- 🔹 Blog Platform (Redux Toolkit)
+
+🌐 Connect with me
+
+- 💼 Portfolio: https://portfolio-xezt.onrender.com
+- 💻 GitHub: https://github.com/solafaissa042
+- 🔗 LinkedIn: https://www.linkedin.com/in/solafa-issa-9a6558263
+
+🚀 Currently Learning
+
+- Advanced React Patterns
+- Backend Optimization
